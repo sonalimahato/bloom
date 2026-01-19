@@ -1,0 +1,12 @@
+body {
+    margin: 0;
+    overflow: hidden; /* Prevents scrollbars */
+    background: linear-gradient(#87CEEB, #228B22); /* Sky to Grass */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+canvas {
+    display: block;
+}
