@@ -11,7 +11,7 @@
 
 ---
 
-<h2>🚀 <a href="TERA_LIVE_LINK_YAHAN_DALO">CLICK HERE TO SEE LIVE DEMO</a> 🚀</h2>
+<h2>🚀 <a href="https://sonalimahato.github.io/bloom/">CLICK HERE TO SEE LIVE DEMO</a> 🚀</h2>
 
 ---
 </div>
@@ -64,7 +64,3 @@
 
 ---
 
-<div align="center">
-  <h3>Developed with ❤️ by Sonali</h3>
-  <p><i>"Code like a pro, Bloom like a flower."</i></p>
-</div>
