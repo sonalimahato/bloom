@@ -3,12 +3,6 @@
 # 🌸 <font size="10">BLOOM</font> 🌸
 ### *An Interactive Digital Garden Experience*
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
-  <img src="https://img.shields.io/badge/Framework-Vanilla%20JS-yellow.svg" />
-  <img src="https://img.shields.io/badge/Aesthetic-Floral-ff69b4.svg" />
-</p>
-
 ---
 
 <h2>🚀 <a href="https://sonalimahato.github.io/bloom/">CLICK HERE TO SEE LIVE DEMO</a> 🚀</h2>
